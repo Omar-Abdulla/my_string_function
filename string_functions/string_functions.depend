@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1599220593 source:c:\users\mohssen\desktop\c problems\omar\string_functions\main.c
+	<stdio.h>
+	"string.h"
+
+1599220644 c:\users\mohssen\desktop\c problems\omar\string_functions\string.h
+
+1599220774 source:c:\users\mohssen\desktop\c problems\omar\string_functions\string.c
+	"string.h"
+
